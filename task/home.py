@@ -1,1 +1,3 @@
-Print('Home and work')
+Print('Home and work');
+print
+
